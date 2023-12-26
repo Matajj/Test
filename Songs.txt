@@ -5,3 +5,4 @@ nekaj dodatnega za drugi commit
 tretji commit
 MatajKrivec je editou se neki
 Matajj poizkus
+MatejKrivec poizkus
